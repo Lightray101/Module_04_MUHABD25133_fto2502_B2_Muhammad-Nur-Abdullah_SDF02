@@ -1,1 +1,1 @@
-### Hi there this is my attempt at replicating and improving the SDFO challenge!
+### Hi there this is my attempt at the SDF02 Challenge: CS Cat HTML Portfolio
